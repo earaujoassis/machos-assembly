@@ -19,13 +19,12 @@ $ bin/hello_world
 
 ## References
 
-- https://www.felixcloutier.com/x86/index.html
-- https://cs.lmu.edu/~ray/notes/nasmtutorial/
-- https://www.objc.io/issues/6-build-tools/mach-o-executables/
-- https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/MachOTopics/0-Introduction/introduction.html#//apple_ref/doc/uid/TP40001827-SW1
-- https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/MachOTopics/1-Articles/x86_64_code.html
-- https://developer.apple.com/library/archive/documentation/DeveloperTools/Reference/Assembler/000-Introduction/introduction.html#//apple_ref/doc/uid/TP30000851-CH211-SW1
-- https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html
+- [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/index.html)
+- [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
+- [Mach-O Executables](https://www.objc.io/issues/6-build-tools/mach-o-executables/)
+- [Mach-O Programming Topics](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/MachOTopics/0-Introduction/introduction.html#//apple_ref/doc/uid/TP40001827-SW1)
+- [OS X Assembler Reference](https://developer.apple.com/library/archive/documentation/DeveloperTools/Reference/Assembler/000-Introduction/introduction.html#//apple_ref/doc/uid/TP30000851-CH211-SW1)
+- [Introduction to x64 Assembly](https://software.intel.com/content/www/us/en/develop/articles/introduction-to-x64-assembly.html)
 
 ## License
 
