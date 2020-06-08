@@ -2,9 +2,12 @@
 
 > Working with the mach kernel + x86-64 architecture assembly
 
-The main purpose of this project is to study the mach kernel and the Mach-O Executable.
-There's alreay an example on how to perform a `SYS_write` + `SYS_exit` calls for the
-mach kernel at [`src/write_syscall.asm`](src/write_syscall.asm).
+The main purpose of this project is to study the mach kernel and the Mach-O
+Executable, alongside the System V Application Binary Interface (ABI).
+There's alreay an example on how to perform a `SYS_write` + `SYS_exit` calls
+for the mach kernel at [`src/write_syscall.asm`](src/write_syscall.asm).
+
+The code is written using the Netwide Assembler (NASM) format.
 
 ## Building steps
 
